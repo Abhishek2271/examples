@@ -20,7 +20,7 @@ sm{
         Final;};
 
  on_enter{
-     key_count = 5;
+     key_count = 1;
  };
  
  Actions{
